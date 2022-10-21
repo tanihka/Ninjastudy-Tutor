@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ninjastudy-Tutor/static/css/main.d865ac4d.css",
+    "main.js": "/Ninjastudy-Tutor/static/js/main.7f277cdc.js",
+    "static/media/home.gif": "/Ninjastudy-Tutor/static/media/home.e19026e44cc625aefcde.gif",
+    "static/media/arya.gif": "/Ninjastudy-Tutor/static/media/arya.9fcb31142e49c32710c6.gif",
+    "static/media/people-images.png": "/Ninjastudy-Tutor/static/media/people-images.6695de495c138c0ea64f.png",
+    "static/media/FAQs-amico.png": "/Ninjastudy-Tutor/static/media/FAQs-amico.b4d4bbc16eb637ce7c91.png",
+    "static/media/Online world-pana.png": "/Ninjastudy-Tutor/static/media/Online world-pana.78fdce1501fe572d979e.png",
+    "static/media/ninjastudy_logo.png": "/Ninjastudy-Tutor/static/media/ninjastudy_logo.a3bc59e3b9347d1b492a.png",
+    "static/media/logos.png": "/Ninjastudy-Tutor/static/media/logos.88b0b0656291a200f091.png",
+    "static/media/amit1.jpg": "/Ninjastudy-Tutor/static/media/amit1.6941fc4c3faaf8010ce1.jpg",
+    "static/media/ruhi1.jpg": "/Ninjastudy-Tutor/static/media/ruhi1.800fefb4bfdee8c183c8.jpg",
+    "static/media/shahla.jpg": "/Ninjastudy-Tutor/static/media/shahla.cfb4cc53c9ea28cbe1b3.jpg",
+    "static/media/harsh.jpg": "/Ninjastudy-Tutor/static/media/harsh.15a80ffab2e0b3d71e5a.jpg",
+    "index.html": "/Ninjastudy-Tutor/index.html",
+    "main.d865ac4d.css.map": "/Ninjastudy-Tutor/static/css/main.d865ac4d.css.map",
+    "main.7f277cdc.js.map": "/Ninjastudy-Tutor/static/js/main.7f277cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d865ac4d.css",
+    "static/js/main.7f277cdc.js"
+  ]
+}
