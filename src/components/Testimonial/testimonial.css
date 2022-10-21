@@ -19,8 +19,6 @@
 }
 
 
-
-  
   
   .swiper-wrapper {
     position: relative;
@@ -113,7 +111,9 @@ padding-bottom: 18px;
   height: 39.94px;
   width: 180px;
  /* border: 1px solid black; */
- margin-left:80px;
+ margin-left:auto;
+ margin-right: auto;
+display: block;
  margin-bottom: 35px;
  
 }
