@@ -117,4 +117,7 @@ label{
     textarea{
         max-width: 340px !important;
     }
+     .contactwrap h2{
+        margin-bottom: -80px !important;
+    }
   }
