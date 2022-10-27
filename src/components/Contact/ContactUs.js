@@ -5,6 +5,7 @@ const ContactUs = () => {
   return (
     <>
       <div className="contactwrap">
+     <h2>Any Quaries? Ask us</h2>
         <div className="contactUs">
           <div className="contact-form">
             <Form />
