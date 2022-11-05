@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ninjastudy-Tutor/static/css/main.3d6e4a98.css",
-    "main.js": "/Ninjastudy-Tutor/static/js/main.bd010994.js",
+    "main.css": "/Ninjastudy-Tutor/static/css/main.77eb908a.css",
+    "main.js": "/Ninjastudy-Tutor/static/js/main.92e7a9d4.js",
     "static/media/home.gif": "/Ninjastudy-Tutor/static/media/home.e19026e44cc625aefcde.gif",
     "static/media/arya.gif": "/Ninjastudy-Tutor/static/media/arya.9fcb31142e49c32710c6.gif",
     "static/media/people-images.png": "/Ninjastudy-Tutor/static/media/people-images.6695de495c138c0ea64f.png",
@@ -14,11 +14,11 @@
     "static/media/shahla.jpg": "/Ninjastudy-Tutor/static/media/shahla.cfb4cc53c9ea28cbe1b3.jpg",
     "static/media/harsh.jpg": "/Ninjastudy-Tutor/static/media/harsh.15a80ffab2e0b3d71e5a.jpg",
     "index.html": "/Ninjastudy-Tutor/index.html",
-    "main.3d6e4a98.css.map": "/Ninjastudy-Tutor/static/css/main.3d6e4a98.css.map",
-    "main.bd010994.js.map": "/Ninjastudy-Tutor/static/js/main.bd010994.js.map"
+    "main.77eb908a.css.map": "/Ninjastudy-Tutor/static/css/main.77eb908a.css.map",
+    "main.92e7a9d4.js.map": "/Ninjastudy-Tutor/static/js/main.92e7a9d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6e4a98.css",
-    "static/js/main.bd010994.js"
+    "static/css/main.77eb908a.css",
+    "static/js/main.92e7a9d4.js"
   ]
 }
