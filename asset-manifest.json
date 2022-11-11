@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ninjastudy-Tutor/static/css/main.a21f1229.css",
+    "main.css": "/Ninjastudy-Tutor/static/css/main.4b9ed9c0.css",
     "main.js": "/Ninjastudy-Tutor/static/js/main.fcb9d139.js",
     "static/media/home.gif": "/Ninjastudy-Tutor/static/media/home.e19026e44cc625aefcde.gif",
     "static/media/arya.gif": "/Ninjastudy-Tutor/static/media/arya.9fcb31142e49c32710c6.gif",
@@ -14,11 +14,11 @@
     "static/media/shahla.jpg": "/Ninjastudy-Tutor/static/media/shahla.cfb4cc53c9ea28cbe1b3.jpg",
     "static/media/harsh.jpg": "/Ninjastudy-Tutor/static/media/harsh.15a80ffab2e0b3d71e5a.jpg",
     "index.html": "/Ninjastudy-Tutor/index.html",
-    "main.a21f1229.css.map": "/Ninjastudy-Tutor/static/css/main.a21f1229.css.map",
+    "main.4b9ed9c0.css.map": "/Ninjastudy-Tutor/static/css/main.4b9ed9c0.css.map",
     "main.fcb9d139.js.map": "/Ninjastudy-Tutor/static/js/main.fcb9d139.js.map"
   },
   "entrypoints": [
-    "static/css/main.a21f1229.css",
+    "static/css/main.4b9ed9c0.css",
     "static/js/main.fcb9d139.js"
   ]
 }
